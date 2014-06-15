@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.chochon.chochonandroid.MainActivity" >
+
+    <item
+        android:id="@+id/action_user_signin"
+        android:icon="@drawable/ic_action_user"
+        android:title="@string/action_user_signin"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>

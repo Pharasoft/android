@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   
+
+     <string-array name="list_country">        
+        <item>English</item>
+        <item>Vietnamese</item>
+    </string-array>
+    <string-array name="country_value">
+        <item>en</item>
+        <item>vi</item>
+    </string-array>
+    
+</resources>

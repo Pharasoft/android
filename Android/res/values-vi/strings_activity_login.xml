@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="title_activity_login">Dang nhap</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mat khau</string>
+    <string name="action_sign_in_register"><b>Dang nhap</b> hoac Dang ky</string>
+    <string name="action_sign_in_short">Dang nhap</string>
+    <string name="action_forgot_password">Khoi phuc mat khau</string>
+    <string name="login_progress_signing_in">Dang dang nhap</string>
+    <string name="error_invalid_email">Email khong hop le</string>
+    <string name="error_invalid_password">Mat khau qua ngan</string>
+    <string name="error_incorrect_password">Mat khau khong dung</string>
+    <string name="error_field_required">Yeu cau nhap du lieu</string>
+    <string name="action_sign_up">Dang ky</string>
+
+</resources>

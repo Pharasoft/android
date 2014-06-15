@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChoChon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_user_signin">Dang nhap</string>
+    <string name="action_settings">Cai dat</string>
+    <string name="chochon_webserver">http://chochon.herokuapp.com</string>
+    <string name="dont_have_an_account">Chua co tai khoan?</string>
+    <string name="title_activity_sing_up">SingUpActivity</string>
+    <string name="sign_up_with">Danh ky bang tai khoan</string>
+
+</resources>
