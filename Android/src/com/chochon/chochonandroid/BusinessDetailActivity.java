@@ -27,7 +27,7 @@ public class BusinessDetailActivity extends ActionBarActivity {
 		
 		if (savedInstanceState == null) {
 			getSupportFragmentManager().beginTransaction()
-					.add(R.id.container, fragment).commit();
+					.add(R.id.container_detail, fragment).commit();
 		}
 	}
 

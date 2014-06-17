@@ -153,7 +153,7 @@ public class MainActivity extends ActionBarActivity implements
 		    // Insert the fragment by replacing any existing fragment
 		    fragmentManager = getSupportFragmentManager();
 		    fragmentManager.beginTransaction()
-		                   .replace(R.id.container, fragment)
+		                   .replace(R.id.container_one, fragment)
 		                   .commit();
 
 			break;
@@ -167,7 +167,7 @@ public class MainActivity extends ActionBarActivity implements
 			//Insert the fragment by replacing any existing fragment
 		    fragmentManager = getSupportFragmentManager();
 		    fragmentManager.beginTransaction()
-		                   .replace(R.id.container, fragment)
+		                   .replace(R.id.container_one, fragment)
 		                   .commit();			 	
 			break;
 			

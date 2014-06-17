@@ -150,6 +150,20 @@ public class LoginActivity extends Activity {
 										Provider.GOOGLE);
 							}
 						});
+		
+				// Sign up with twitter
+				findViewById(R.id.imageButtonSignUpTwitter).setOnClickListener(
+						new View.OnClickListener() {
+							@Override
+							public void onClick(View v) {
+								// TODO Auto-generated method stub
+								// Adapter initialization
+								mSocialAuthAdapter = new SocialAuthAdapter(
+										new ResponseListener());
+								mSocialAuthAdapter.authorize(LoginActivity.this,
+										Provider.TWITTER);
+							}
+						});
 				
 	}
 

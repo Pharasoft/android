@@ -186,6 +186,7 @@ public class NavigationDrawerFragment extends Fragment {
 		                R.id.text_view_navigation_item,
 		                listDrawerItemNotLoggedIn));
 		 }	
+        
         mDrawerListView.setItemChecked(mCurrentSelectedPosition, true);
         
         ActionBar actionBar = getActionBar();
